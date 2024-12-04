@@ -1,1 +1,1 @@
-# Market-Segmentation-Analysis-McDonald-s
+# Market-Segmentation-Analysis-McDonalds
